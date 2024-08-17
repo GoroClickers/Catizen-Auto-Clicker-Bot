@@ -29,7 +29,7 @@
 
 
 
-**2. open bot**
+**2. open bot - Password CLICKER**
 
 
 **3. wait loading**
